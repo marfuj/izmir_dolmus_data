@@ -1,7 +1,7 @@
 {
- "updated": "2026-09-16T22:48:37.122131+00:00",
+ "updated": "2026-09-17T21:41:43.420289+00:00",
  "source": "Ticketmaster (Biletix) + İBB",
- "count": 148,
+ "count": 154,
  "events": [
   {
    "id": "ibb_6583",
@@ -15,7 +15,8 @@
    "lat": 38.42498,
    "lng": 27.13792,
    "image": "https://kultursanat.izmir.bel.tr/YuklenenDosyalar/Etkinlikler/Kucuk/20251209_100641_etkinlik.jpg",
-   "url": "sergi-E2809Cizmir-fotografhanesi-gorsel-hafizanin-insasi-1840-1922E2809D"
+   "url": "sergi-E2809Cizmir-fotografhanesi-gorsel-hafizanin-insasi-1840-1922E2809D",
+   "desc": "Sergi Açılışı: 11 Aralık 2025 Perşembe, Ahmet Piriştina Kent Arşivi ve Müzesi Sergi Salonu'nda..."
   },
   {
    "id": "ibb_6835",
@@ -29,20 +30,8 @@
    "lat": null,
    "lng": null,
    "image": "https://kultursanat.izmir.bel.tr/YuklenenDosyalar/Etkinlikler/Kucuk/20260410_114302_etkinlik.jpg",
-   "url": "izmir-mutfak-muzesiE28099nin-tanitim-sergisigol-gazinosuE28099nda-ziyarete-acildi"
-  },
-  {
-   "id": "tm_Z2HyzZyMZkp-2avve",
-   "source": "ticketmaster",
-   "title": "Devlerin Savaşı",
-   "category": "Arts & Theatre",
-   "start": "2026-09-17T17:30:00Z",
-   "venue": "Bostanlı Karşıyaka Theatre",
-   "city": "İzmir",
-   "lat": 38.454575,
-   "lng": 27.099511,
-   "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5LWE8/001/TURKIYE/tr"
+   "url": "izmir-mutfak-muzesiE28099nin-tanitim-sergisigol-gazinosuE28099nda-ziyarete-acildi",
+   "desc": "İzmir Mutfak Müzesi'nin Tanıtım Sergisi Göl Gazinosu'nda Ziyarete Açıldı..."
   },
   {
    "id": "tm_Z1HyzZyMZkjoa2b_",
@@ -55,20 +44,30 @@
    "lat": 38.42886457201354,
    "lng": 27.148272269662595,
    "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5RG63/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5RG63/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Theatre",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_ZaHyzZyMZkQG7BfZv",
    "source": "ticketmaster",
    "title": "Don Quixote (Don Kişot)",
-   "category": "Arts & Theatre",
+   "category": "Music",
    "start": "2026-09-17T18:00:00Z",
    "venue": "Bornova Aşık Veysel Açıkhava Tiyatrosu",
    "city": "İzmir",
    "lat": 38.468266878421204,
    "lng": 27.20836777325751,
-   "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5PE94/001/TURKIYE/tr"
+   "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_PORTRAIT_16_9.jpg",
+   "url": "https://www.biletix.com/performance/5PE94/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Pop",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z1HyzZyMZkjoa37o",
@@ -81,7 +80,12 @@
    "lat": 38.454575,
    "lng": 27.099511,
    "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5RG74/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5RG74/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Theatre",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkCorOvve",
@@ -94,7 +98,12 @@
    "lat": 38.45368122911795,
    "lng": 27.177717803144628,
    "image": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5DGTV/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5DGTV/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Comedy",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkbQ5Fvve",
@@ -107,7 +116,12 @@
    "lat": 38.474939,
    "lng": 27.074137,
    "image": "https://s1.ticketm.net/dam/c/f50/96fa13be-e395-429b-8558-a51bb9054f50_105951_TABLET_LANDSCAPE_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5NPA7/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5NPA7/001/TURKIYE/tr",
+   "desc": null,
+   "genre": null,
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_ZaHyzZyMZkbG7tNZv",
@@ -120,7 +134,12 @@
    "lat": 38.46802217482793,
    "lng": 27.089875774505764,
    "image": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5NA63/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5NA63/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Comedy",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z1HyzZyMZk9baFKo",
@@ -133,7 +152,12 @@
    "lat": 38.440394,
    "lng": 27.151786,
    "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5MN34/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5MN34/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Rock",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkCLq7vve",
@@ -146,7 +170,12 @@
    "lat": 38.468266878421204,
    "lng": 27.20836777325751,
    "image": "https://s1.ticketm.net/dam/c/f50/96fa13be-e395-429b-8558-a51bb9054f50_105951_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5DUS3/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5DUS3/001/TURKIYE/tr",
+   "desc": null,
+   "genre": null,
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkbQeCvve",
@@ -159,7 +188,12 @@
    "lat": 38.474939,
    "lng": 27.074137,
    "image": "https://s1.ticketm.net/dam/c/f50/96fa13be-e395-429b-8558-a51bb9054f50_105951_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5NP1D/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5NP1D/001/TURKIYE/tr",
+   "desc": null,
+   "genre": null,
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkQq8kvve",
@@ -172,7 +206,12 @@
    "lat": 38.465087,
    "lng": 27.144188,
    "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5PSF5/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5PSF5/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Rock",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkr1bpvve",
@@ -185,7 +224,12 @@
    "lat": 38.39914894462486,
    "lng": 27.068317879464047,
    "image": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5T9NL/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5T9NL/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Comedy",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkbQ57vve",
@@ -198,7 +242,12 @@
    "lat": 38.474939,
    "lng": 27.074137,
    "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5NPA3/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5NPA3/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Pop",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_ZaHyzZyMZkbG7nfZv",
@@ -211,7 +260,12 @@
    "lat": 38.46802217482793,
    "lng": 27.089875774505764,
    "image": "https://s1.ticketm.net/dam/c/03e/e15ef00f-2c87-4421-ae61-d740851a703e_105891_TABLET_LANDSCAPE_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5NA94/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5NA94/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Undefined",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z1HyzZyMZk2Qa1Zt",
@@ -224,7 +278,12 @@
    "lat": 38.440394,
    "lng": 27.151786,
    "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5EP41/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5EP41/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Rock",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z1HyzZyMZkCrapq-",
@@ -237,7 +296,12 @@
    "lat": 38.454575,
    "lng": 27.099511,
    "image": "https://s1.ticketm.net/dam/a/470/3a29adbc-0a09-42a0-91f9-3d2a01a90470_718901_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5DT92/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5DT92/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Rock",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z1HyzZyMZkq4a1LB",
@@ -250,7 +314,12 @@
    "lat": 38.42886457201354,
    "lng": 27.148272269662595,
    "image": "https://s1.ticketm.net/dam/c/548/5fefbd1c-973b-4b0e-9b2e-d78e4ce37548_106111_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5SK43/002/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5SK43/002/TURKIYE/tr",
+   "desc": "- Children under 6 years old are not admitted to the event area. All participants aged 6 and above must have a ticket. - The organizing company reserves the right to refuse entry to individuals deemed unsuitable for the event, subject to a refund of the ticket price. - The organizing company reserves the right to make any changes to the program due to unforeseen and unavoidable reasons. - The organizing company reserves the right to change ticket prices. - Keep your ticket and/or wristband with you during the event. - No outside food or drinks are allowed in the event area. - Selfie sticks and GoPro sticks are not allowed in the event area. - Professional audio and video equipment (video cameras and cameras) are not allowed in the event area. - Recording is not permitted during the event. The audience accepts that visual and audio recording devices may be confiscated if deemed appropriate by the artist's management. - Flammable, explosive (such as deodorant, spray, perfume, cologne, etc.), flammable, cutting, and piercing tools, thermos flasks, motorcycle helmets, and laser pointers are not permitted in the event area. - All participants must carry their ID with them and present it when requested. - We would like to remind you that you are responsible for any items you bring with you to the event area. - Security personnel will subject everyone entering the event area to a security search. - No pets are allowed in the event area. Only guide dogs are permitted. - The lighting arrangements in the event area may cause temporary eye discomfort. - Event tickets must only be purchased from official sales points designated by the event organizer. The event organizer reserves the right to remove individuals from the event area if their tickets were not purchased from official sales points. - Spectators who exit the event area forfeit their rights and must purchase a new ticket to re-enter. - Event tickets are non-transferable and non-refundable. Lost tickets will not be replaced. Tickets purchased may not be used for commercial or non-commercial purposes, such as advertising, competitions, sweepstakes, promotions, etc., except for personal use, without written permission. Tickets used for such purposes will be canceled, and legal action will be taken. - The event organizer reserves the right to use photographs and videos taken of event participants in promotional materials. By participating in the event, participants agree to this right. - Care should be taken not to take photographs or videos with non-professional devices that may disturb participants and artists or violate their privacy.",
+   "genre": "World",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z1HyzZyMZkq4a1Ly",
@@ -263,7 +332,12 @@
    "lat": 38.42886457201354,
    "lng": 27.148272269662595,
    "image": "https://s1.ticketm.net/dam/c/ab4/6367448e-7474-4650-bd2d-02a8f7166ab4_106161_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5SK43/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5SK43/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Undefined",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z1HyzZyMZkjoakpo",
@@ -276,7 +350,12 @@
    "lat": 38.440394,
    "lng": 27.151786,
    "image": "https://s1.ticketm.net/dam/c/80b/f3cd8d24-c3ae-4fa0-b4bc-1ba99f9b380b_106091_TABLET_LANDSCAPE_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5RG26/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5RG26/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Hip-Hop/Rap",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkfC3vvve",
@@ -289,7 +368,12 @@
    "lat": 38.42886457201354,
    "lng": 27.148272269662595,
    "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5JDH0/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5JDH0/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Pop",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZk4937vve",
@@ -302,7 +386,12 @@
    "lat": 38.454575,
    "lng": 27.099511,
    "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5KMH3/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5KMH3/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Theatre",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkfC3vvvd",
@@ -315,7 +404,12 @@
    "lat": 38.42886457201354,
    "lng": 27.148272269662595,
    "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5JDH0/002/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5JDH0/002/TURKIYE/tr",
+   "desc": null,
+   "genre": "Pop",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z1HyzZyMZk8QaGjy",
@@ -328,7 +422,12 @@
    "lat": 38.454575,
    "lng": 27.099511,
    "image": "https://s1.ticketm.net/dam/c/779/d4bc7e11-1b50-4aa4-a2be-0a21569f5779_106531_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5FP51/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5FP51/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Folk",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z1HyzZyMZk94aKes",
@@ -341,7 +440,12 @@
    "lat": 38.468266878421204,
    "lng": 27.20836777325751,
    "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5MK78/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5MK78/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Pop",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkpjvAvve",
@@ -354,7 +458,12 @@
    "lat": 38.42886457201354,
    "lng": 27.148272269662595,
    "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5LR04/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5LR04/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Pop",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_ZaHyzZyMZk-17J8Zv",
@@ -367,7 +476,12 @@
    "lat": 38.447141,
    "lng": 27.173694,
    "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5W990/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5W990/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Pop",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z1HyzZyMZkG0apHs",
@@ -380,7 +494,12 @@
    "lat": 38.46802217482793,
    "lng": 27.089875774505764,
    "image": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5BZ94/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5BZ94/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Comedy",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkKKbavve",
@@ -393,7 +512,12 @@
    "lat": 38.45368122911795,
    "lng": 27.177717803144628,
    "image": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5IIN8/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5IIN8/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Comedy",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkp-8kvve",
@@ -406,7 +530,12 @@
    "lat": 38.454575,
    "lng": 27.099511,
    "image": "https://s1.ticketm.net/dam/c/ab4/6367448e-7474-4650-bd2d-02a8f7166ab4_106161_TABLET_LANDSCAPE_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5LWF5/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5LWF5/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Undefined",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z1HyzZyMZk94a3Sa",
@@ -419,7 +548,12 @@
    "lat": 38.468266878421204,
    "lng": 27.20836777325751,
    "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5MK77/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5MK77/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Theatre",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkfGCOvve",
@@ -432,7 +566,12 @@
    "lat": 38.42886457201354,
    "lng": 27.148272269662595,
    "image": "https://s1.ticketm.net/dam/c/548/5fefbd1c-973b-4b0e-9b2e-d78e4ce37548_106111_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5JBDV/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5JBDV/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "World",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_ZaHyzZyMZkbG7nkZv",
@@ -445,7 +584,12 @@
    "lat": 38.46802217482793,
    "lng": 27.089875774505764,
    "image": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5NA86/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5NA86/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Comedy",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkKKb1vve",
@@ -458,7 +602,12 @@
    "lat": 38.43794249475595,
    "lng": 27.14288593068511,
    "image": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5IIN9/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5IIN9/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Comedy",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkbQ5vvve",
@@ -471,7 +620,12 @@
    "lat": 38.474939,
    "lng": 27.074137,
    "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5NPA0/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5NPA0/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Pop",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_ZaHyzZyMZkfG7myZv",
@@ -484,7 +638,12 @@
    "lat": 38.42886457201354,
    "lng": 27.148272269662595,
    "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_TABLET_LANDSCAPE_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5JBB9/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5JBB9/001/TURKIYE/tr",
+   "desc": null,
+   "genre": null,
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZk_q5Cvve",
@@ -497,7 +656,12 @@
    "lat": 38.464675,
    "lng": 27.221622,
    "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5OSAD/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5OSAD/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Pop",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkfpN3vve",
@@ -509,8 +673,13 @@
    "city": "İzmir",
    "lat": 38.37495555413558,
    "lng": 26.899768399999136,
-   "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5JLYH/001/TURKIYE/tr"
+   "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_16_9.jpg",
+   "url": "https://www.biletix.com/performance/5JLYH/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Rock",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z1HyzZyMZkjoa3Ky",
@@ -523,7 +692,12 @@
    "lat": 38.42886457201354,
    "lng": 27.148272269662595,
    "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5RG75/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5RG75/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Pop",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z1HyzZyMZkjoaCt-",
@@ -536,7 +710,12 @@
    "lat": 38.42886457201354,
    "lng": 27.148272269662595,
    "image": "https://s1.ticketm.net/dam/c/518/83a05c63-479c-4f7e-a7aa-1932aab77518_105461_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5RG60/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5RG60/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Classical",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z6HyzZyMZ1kvppZZv",
@@ -549,7 +728,12 @@
    "lat": 38.454575,
    "lng": 27.099511,
    "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/56580/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/56580/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Theatre",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_ZaHyzZyMZkfG7RaZv",
@@ -562,7 +746,12 @@
    "lat": 38.468266878421204,
    "lng": 27.20836777325751,
    "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5JBC9/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5JBC9/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Pop",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkCoLCvve",
@@ -575,7 +764,12 @@
    "lat": 38.45368122911795,
    "lng": 27.177717803144628,
    "image": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5DGUD/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5DGUD/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Comedy",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z1HyzZyMZkfNaFdt",
@@ -588,7 +782,12 @@
    "lat": 38.42886457201354,
    "lng": 27.148272269662595,
    "image": "https://s1.ticketm.net/dam/c/03e/e15ef00f-2c87-4421-ae61-d740851a703e_105891_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5JY33/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5JY33/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Undefined",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkbQe2vve",
@@ -601,7 +800,12 @@
    "lat": 38.474939,
    "lng": 27.074137,
    "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5NP1E/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5NP1E/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Rock",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkfGGpvve",
@@ -614,7 +818,84 @@
    "lat": 38.468266878421204,
    "lng": 27.20836777325751,
    "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5JBBL/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5JBBL/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Pop",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
+  },
+  {
+   "id": "tm_Z1HyzZyMZkFja2Fs",
+   "source": "ticketmaster",
+   "title": "Milyonfest İzmir 2026 - Kombine",
+   "category": "Music",
+   "start": "2026-10-01T12:00:00Z",
+   "venue": "Tarihi Havagazı Fabrikası",
+   "city": "İzmir",
+   "lat": 38.440394,
+   "lng": 27.151786,
+   "image": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_RETINA_PORTRAIT_16_9.jpg",
+   "url": "https://www.biletix.com/performance/57R62/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Alternative",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
+  },
+  {
+   "id": "tm_Z1HyzZyMZkFjaCt-",
+   "source": "ticketmaster",
+   "title": "Milyonfest İzmir 2026 - VIP Kombine",
+   "category": "Music",
+   "start": "2026-10-01T12:00:00Z",
+   "venue": "Tarihi Havagazı Fabrikası",
+   "city": "İzmir",
+   "lat": 38.440394,
+   "lng": 27.151786,
+   "image": "https://s1.ticketm.net/dam/c/779/d4bc7e11-1b50-4aa4-a2be-0a21569f5779_106531_RETINA_PORTRAIT_16_9.jpg",
+   "url": "https://www.biletix.com/performance/57R60/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Folk",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
+  },
+  {
+   "id": "tm_Z1HyzZyMZkFjaCya",
+   "source": "ticketmaster",
+   "title": "Milyonfest İzmir 2026 - VIP Günlük Bilet - Dilediğin Bir Gün",
+   "category": "Music",
+   "start": "2026-10-01T12:00:00Z",
+   "venue": "Tarihi Havagazı Fabrikası",
+   "city": "İzmir",
+   "lat": 38.440394,
+   "lng": 27.151786,
+   "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_16_9.jpg",
+   "url": "https://www.biletix.com/performance/57R61/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Rock",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
+  },
+  {
+   "id": "tm_Z1HyzZyMZkFja2b_",
+   "source": "ticketmaster",
+   "title": "Milyonfest İzmir 2026 - Perşembe",
+   "category": "Music",
+   "start": "2026-10-01T12:05:00Z",
+   "venue": "Tarihi Havagazı Fabrikası",
+   "city": "İzmir",
+   "lat": 38.440394,
+   "lng": 27.151786,
+   "image": "https://s1.ticketm.net/dam/c/779/d4bc7e11-1b50-4aa4-a2be-0a21569f5779_106531_RETINA_PORTRAIT_16_9.jpg",
+   "url": "https://www.biletix.com/performance/57R63/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Folk",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z1HyzZyMZkjoaKes",
@@ -627,7 +908,12 @@
    "lat": 38.42886457201354,
    "lng": 27.148272269662595,
    "image": "https://s1.ticketm.net/dam/c/ab4/6367448e-7474-4650-bd2d-02a8f7166ab4_106161_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5RG78/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5RG78/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Undefined",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z1HyzZyMZk8LaoAs",
@@ -640,7 +926,30 @@
    "lat": 38.454575,
    "lng": 27.099511,
    "image": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5FU70/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5FU70/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Comedy",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
+  },
+  {
+   "id": "tm_Z1HyzZyMZkFja2Iv",
+   "source": "ticketmaster",
+   "title": "Milyonfest İzmir 2026 - Cuma",
+   "category": "Music",
+   "start": "2026-10-02T12:00:00Z",
+   "venue": "Tarihi Havagazı Fabrikası",
+   "city": "İzmir",
+   "lat": 38.440394,
+   "lng": 27.151786,
+   "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_PORTRAIT_16_9.jpg",
+   "url": "https://www.biletix.com/performance/57R64/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Pop",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkNqduvve",
@@ -653,7 +962,12 @@
    "lat": 38.454575,
    "lng": 27.099511,
    "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5YS2C/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5YS2C/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Theatre",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkbQ5avve",
@@ -666,7 +980,12 @@
    "lat": 38.474939,
    "lng": 27.074137,
    "image": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5NPA8/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5NPA8/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Alternative",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkCr56vve",
@@ -679,7 +998,12 @@
    "lat": 38.42886457201354,
    "lng": 27.148272269662595,
    "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5DTA6/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5DTA6/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Pop",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_ZaHyzZyMZkqG7VFZv",
@@ -692,7 +1016,30 @@
    "lat": 38.464675,
    "lng": 27.221622,
    "image": "https://s1.ticketm.net/dam/c/80b/f3cd8d24-c3ae-4fa0-b4bc-1ba99f9b380b_106091_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5SD08/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5SD08/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Hip-Hop/Rap",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
+  },
+  {
+   "id": "tm_Z1HyzZyMZkFja2Mt",
+   "source": "ticketmaster",
+   "title": "Milyonfest İzmir 2026 - Cumartesi",
+   "category": "Music",
+   "start": "2026-10-03T12:00:00Z",
+   "venue": "Tarihi Havagazı Fabrikası",
+   "city": "İzmir",
+   "lat": 38.440394,
+   "lng": 27.151786,
+   "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_PORTRAIT_16_9.jpg",
+   "url": "https://www.biletix.com/performance/57R65/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Pop",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkNqd5vve",
@@ -705,7 +1052,12 @@
    "lat": 38.39914894462486,
    "lng": 27.068317879464047,
    "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5YS2A/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5YS2A/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Theatre",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkbQ5evve",
@@ -718,7 +1070,12 @@
    "lat": 38.474939,
    "lng": 27.074137,
    "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5NPA1/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5NPA1/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Pop",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkr190vve",
@@ -731,7 +1088,12 @@
    "lat": 38.454575,
    "lng": 27.099511,
    "image": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5T9MZ/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5T9MZ/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Comedy",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkNqervve",
@@ -744,7 +1106,12 @@
    "lat": 38.42886457201354,
    "lng": 27.148272269662595,
    "image": "https://s1.ticketm.net/dam/c/03e/e15ef00f-2c87-4421-ae61-d740851a703e_105891_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5YS1T/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5YS1T/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Undefined",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZk895uvve",
@@ -757,7 +1124,30 @@
    "lat": 38.438259319502585,
    "lng": 27.143120801033284,
    "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5FMAC/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5FMAC/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Rock",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
+  },
+  {
+   "id": "tm_Z1HyzZyMZkFja86o",
+   "source": "ticketmaster",
+   "title": "Milyonfest İzmir 2026 - Pazar",
+   "category": "Music",
+   "start": "2026-10-04T12:00:00Z",
+   "venue": "Tarihi Havagazı Fabrikası",
+   "city": "İzmir",
+   "lat": 38.440394,
+   "lng": 27.151786,
+   "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_16_9.jpg",
+   "url": "https://www.biletix.com/performance/57R66/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Rock",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_ZaHyzZyMZk_G7WNZv",
@@ -770,20 +1160,30 @@
    "lat": 38.447141,
    "lng": 27.173694,
    "image": "https://s1.ticketm.net/dam/c/80b/f3cd8d24-c3ae-4fa0-b4bc-1ba99f9b380b_106091_TABLET_LANDSCAPE_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5OF63/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5OF63/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Hip-Hop/Rap",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZk8Q5Cvve",
    "source": "ticketmaster",
    "title": "Fırat Tanış ile Gelin Tanış Olalım",
-   "category": "Music",
+   "category": "Arts & Theatre",
    "start": "2026-10-06T17:30:00Z",
    "venue": "Bostanlı Karşıyaka Theatre",
    "city": "İzmir",
    "lat": 38.454575,
    "lng": 27.099511,
-   "image": "https://s1.ticketm.net/dam/c/779/d4bc7e11-1b50-4aa4-a2be-0a21569f5779_106531_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5FPAD/001/TURKIYE/tr"
+   "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_RETINA_PORTRAIT_16_9.jpg",
+   "url": "https://www.biletix.com/performance/5FPAD/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Theatre",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZk8Q52vve",
@@ -796,7 +1196,12 @@
    "lat": 38.39914894462486,
    "lng": 27.068317879464047,
    "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5FPAE/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5FPAE/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Theatre",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkbQ5Avve",
@@ -809,7 +1214,12 @@
    "lat": 38.474939,
    "lng": 27.074137,
    "image": "https://s1.ticketm.net/dam/c/f50/96fa13be-e395-429b-8558-a51bb9054f50_105951_TABLET_LANDSCAPE_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5NPA4/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5NPA4/001/TURKIYE/tr",
+   "desc": null,
+   "genre": null,
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z1HyzZyMZk2Qa5r_",
@@ -822,7 +1232,12 @@
    "lat": 38.440394,
    "lng": 27.151786,
    "image": "https://s1.ticketm.net/dam/a/892/767b6e98-18ec-444d-8e51-57fa49274892_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5EP47/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5EP47/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Pop",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZk-295vve",
@@ -835,7 +1250,12 @@
    "lat": 38.454575,
    "lng": 27.099511,
    "image": "https://s1.ticketm.net/dam/a/357/daea1c07-5444-4da6-8f7e-e68ca82c6357_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5WEMA/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5WEMA/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Other",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z1HyzZyMZk_ja3Ky",
@@ -848,7 +1268,12 @@
    "lat": 38.39914894462486,
    "lng": 27.068317879464047,
    "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5OR75/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5OR75/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Theatre",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z1HyzZyMZkGQaC1o",
@@ -861,7 +1286,12 @@
    "lat": 38.46292019319765,
    "lng": 27.216590851824616,
    "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5BP58/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5BP58/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Theatre",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkbQeGvve",
@@ -874,7 +1304,12 @@
    "lat": 38.474939,
    "lng": 27.074137,
    "image": "https://s1.ticketm.net/dam/c/548/5fefbd1c-973b-4b0e-9b2e-d78e4ce37548_106111_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5NP1B/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5NP1B/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "World",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkfGCfvve",
@@ -887,7 +1322,12 @@
    "lat": 38.42886457201354,
    "lng": 27.148272269662595,
    "image": "https://s1.ticketm.net/dam/c/779/d4bc7e11-1b50-4aa4-a2be-0a21569f5779_106531_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5JBDJ/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5JBDJ/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Folk",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_ZaHyzZyMZk-17PPZv",
@@ -900,7 +1340,12 @@
    "lat": 38.447141,
    "lng": 27.173694,
    "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5W965/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5W965/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Rock",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z1HyzZyMZk9oa4Xo",
@@ -913,7 +1358,12 @@
    "lat": 38.438259319502585,
    "lng": 27.143120801033284,
    "image": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_TABLET_LANDSCAPE_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5MG90/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5MG90/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Alternative",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z1HyzZyMZkGQaCya",
@@ -926,7 +1376,12 @@
    "lat": 38.454575,
    "lng": 27.099511,
    "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5BP61/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5BP61/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Theatre",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z1HyzZyMZkjoa8J-",
@@ -939,7 +1394,12 @@
    "lat": 38.42886457201354,
    "lng": 27.148272269662595,
    "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5RG68/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5RG68/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Rock",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z1HyzZyMZkxva6Aa",
@@ -952,7 +1412,12 @@
    "lat": 38.474939,
    "lng": 27.074137,
    "image": "https://s1.ticketm.net/dam/c/e7c/86478562-7218-4e8f-b9d4-8080fe168e7c_105581_TABLET_LANDSCAPE_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5X029/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5X029/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Metal",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZk_q58vve",
@@ -965,7 +1430,12 @@
    "lat": 38.464675,
    "lng": 27.221622,
    "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5OSAF/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5OSAF/001/TURKIYE/tr",
+   "desc": "- There is an age limit of 18. Persons under the age of 18 are not permitted to enter. - The organising company reserves the right to refuse entry to persons deemed unsuitable for the event, subject to a refund of the ticket price. - The organising company reserves the right to refuse entry to persons in order to ensure an equal number of men and women at the event venue, subject to a refund of the ticket price. - Purchased tickets cannot be cancelled, refunded or changed. - The organising company reserves the right to make any changes to the programme due to unforeseen and unavoidable circumstances. - The organising company reserves the right to change ticket prices. - Professional audio and video equipment (video cameras and cameras) are not permitted in the event area. - Concert tickets are non-transferable and non-refundable. - Please keep your ticket and/or wristband with you throughout the concert. - We would like to remind you that you are responsible for any belongings you have with you in the event area. - It is prohibited to bring any flammable, explosive (such as deodorant, spray, perfume, etc.), combustible, sharp, or piercing objects, or laser pointers into the event area. - The sound systems in the event area may cause temporary hearing problems. - The stage lighting systems in the event area are harmful to people with MS and epilepsy; we kindly request that you take care. - The lighting systems in the event area may cause temporary eye discomfort. - Smoke and fog machines may be used in the event area. - Concert tickets must only be purchased from official sales points designated by the event organiser. The event organiser reserves the right to remove individuals from the concert venue if their tickets were not purchased from official sales points. - Spectators entering the event venue must purchase a new ticket if they leave the venue. - The event organiser reserves the right to use photographs and videos taken by concert attendees in promotional materials. By attending the concert, participants agree to this right. - As barcode/ticket checks will be carried out upon entry, you must present your ticket. If your ticket was purchased with a membership, you can access your ticket from the \"My Tickets\" section after logging in. If you are unable to access it, or if you did not purchase your ticket with a membership, please contact Biletix Customer Services.",
+   "genre": "Rock",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z1HyzZyMZkjoa863",
@@ -978,7 +1448,12 @@
    "lat": 38.42886457201354,
    "lng": 27.148272269662595,
    "image": "https://s1.ticketm.net/dam/c/cf0/e3e32db3-adac-486f-b78d-7c8857f8bcf0_106191_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5RG66/002/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5RG66/002/TURKIYE/tr",
+   "desc": null,
+   "genre": "Dance",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z1HyzZyMZkjoaGHa",
@@ -991,7 +1466,12 @@
    "lat": 38.440394,
    "lng": 27.151786,
    "image": "https://s1.ticketm.net/dam/a/339/cfffdb53-4952-452a-b059-3b9549450339_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5RG53/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5RG53/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Pop",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z1HyzZyMZk_ja8J-",
@@ -1004,7 +1484,12 @@
    "lat": 38.42886457201354,
    "lng": 27.148272269662595,
    "image": "https://s1.ticketm.net/dam/c/779/d4bc7e11-1b50-4aa4-a2be-0a21569f5779_106531_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5OR68/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5OR68/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Folk",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z6HyzZyMZ1kv3jfZv",
@@ -1017,7 +1502,12 @@
    "lat": 38.463878,
    "lng": 27.169117,
    "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/52714/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/52714/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Theatre",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZk80Oevve",
@@ -1030,7 +1520,12 @@
    "lat": 38.416407,
    "lng": 27.128531,
    "image": "https://s1.ticketm.net/dam/c/f50/96fa13be-e395-429b-8558-a51bb9054f50_105951_TABLET_LANDSCAPE_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5FZV1/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5FZV1/001/TURKIYE/tr",
+   "desc": null,
+   "genre": null,
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkLuq2vve",
@@ -1043,7 +1538,12 @@
    "lat": 38.418582,
    "lng": 27.130171,
    "image": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_TABLET_LANDSCAPE_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5UCSE/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5UCSE/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Alternative",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z1HyzZyMZkbQaCya",
@@ -1056,7 +1556,12 @@
    "lat": 38.474939,
    "lng": 27.074137,
    "image": "https://s1.ticketm.net/dam/a/d15/89974dbf-45f7-4f2a-bf8f-98d01d61bd15_575371_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5NP61/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5NP61/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Rock",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z1HyzZyMZkjoa8Ua",
@@ -1069,7 +1574,12 @@
    "lat": 38.42886457201354,
    "lng": 27.148272269662595,
    "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5RG69/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5RG69/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Pop",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z1HyzZyMZk1_adn_",
@@ -1082,7 +1592,12 @@
    "lat": 38.46292019319765,
    "lng": 27.216590851824616,
    "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/59O15/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/59O15/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Pop",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkfC36vve",
@@ -1095,7 +1610,12 @@
    "lat": 38.454575,
    "lng": 27.099511,
    "image": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5JDH6/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5JDH6/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Comedy",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkbQvpvve",
@@ -1108,7 +1628,12 @@
    "lat": 38.474939,
    "lng": 27.074137,
    "image": "https://s1.ticketm.net/dam/c/f50/96fa13be-e395-429b-8558-a51bb9054f50_105951_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5NP0L/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5NP0L/001/TURKIYE/tr",
+   "desc": null,
+   "genre": null,
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkp-u1vve",
@@ -1121,7 +1646,12 @@
    "lat": 38.42886457201354,
    "lng": 27.148272269662595,
    "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5LWC9/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5LWC9/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Pop",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZk8Qrevve",
@@ -1134,7 +1664,12 @@
    "lat": 38.347509,
    "lng": 27.119075,
    "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5FPT1/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5FPT1/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Rock",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZk8QrAvve",
@@ -1147,7 +1682,12 @@
    "lat": 38.347509,
    "lng": 27.119075,
    "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5FPT4/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5FPT4/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Rock",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZk5Ljdvve",
@@ -1160,7 +1700,12 @@
    "lat": 38.39765648395925,
    "lng": 27.082229198147825,
    "image": "https://s1.ticketm.net/dam/c/f50/96fa13be-e395-429b-8558-a51bb9054f50_105951_TABLET_LANDSCAPE_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5AUR2/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5AUR2/001/TURKIYE/tr",
+   "desc": null,
+   "genre": null,
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z1HyzZyMZk_jaKes",
@@ -1173,7 +1718,12 @@
    "lat": 38.39914894462486,
    "lng": 27.068317879464047,
    "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5OR78/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5OR78/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Theatre",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkNqd0vve",
@@ -1186,7 +1736,12 @@
    "lat": 38.418582,
    "lng": 27.130171,
    "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5YS2Z/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5YS2Z/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Theatre",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkbQ56vve",
@@ -1199,7 +1754,12 @@
    "lat": 38.474939,
    "lng": 27.074137,
    "image": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5NPA6/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5NPA6/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Alternative",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkp-27vve",
@@ -1212,7 +1772,12 @@
    "lat": 38.42886457201354,
    "lng": 27.148272269662595,
    "image": "https://s1.ticketm.net/dam/c/548/5fefbd1c-973b-4b0e-9b2e-d78e4ce37548_106111_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5LWE3/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5LWE3/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "World",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZk8Qrdvve",
@@ -1225,7 +1790,12 @@
    "lat": 38.347509,
    "lng": 27.119075,
    "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5FPT2/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5FPT2/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Rock",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z1HyzZyMZkjoaoPv",
@@ -1238,7 +1808,12 @@
    "lat": 38.42886457201354,
    "lng": 27.148272269662595,
    "image": "https://s1.ticketm.net/dam/c/bea/03d47f66-d37b-4aca-aa17-0135be64dbea_105801_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5RG72/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5RG72/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Jazz",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZk_q5jvve",
@@ -1251,7 +1826,12 @@
    "lat": 38.465087,
    "lng": 27.144188,
    "image": "https://s1.ticketm.net/dam/c/80b/f3cd8d24-c3ae-4fa0-b4bc-1ba99f9b380b_106091_TABLET_LANDSCAPE_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5OSAR/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5OSAR/001/TURKIYE/tr",
+   "desc": "- The organising company reserves the right to refuse entry to persons deemed unsuitable for the event, subject to a refund of the ticket price. - Purchased tickets cannot be cancelled, refunded or changed. - The organising company reserves the right to make any changes to the programme due to unforeseen and unavoidable circumstances. - The organising company reserves the right to change ticket prices. - Professional audio and video equipment (video cameras and cameras) are not permitted in the event area. - Concert tickets are non-transferable and non-refundable. - Please keep your ticket and/or wristband with you throughout the concert. - We would like to remind you that you are responsible for any belongings you have with you in the event area. - It is prohibited to bring any flammable, explosive (such as deodorant, spray, perfume, etc.), combustible, sharp, or piercing objects, or laser pointers into the event area. - The sound systems in the event area may cause temporary hearing problems. - The stage lighting systems in the event area are harmful to people with MS and epilepsy; we kindly request that you take care. - The lighting systems in the event area may cause temporary eye discomfort. - Smoke and fog machines may be used in the event area. - Concert tickets must only be purchased from official sales points designated by the event organiser. The event organiser reserves the right to remove individuals from the concert venue if their tickets were not purchased from official sales points. - Spectators entering the event venue must purchase a new ticket if they leave the venue. - The event organiser reserves the right to use photographs and videos taken by concert attendees in promotional materials. By attending the concert, participants agree to this right. - As barcode/ticket checks will be carried out upon entry, you must present your ticket. If your ticket was purchased with a membership, you can access your ticket from the \"My Tickets\" section after logging in. If you are unable to access it, or if you did not purchase your ticket with a membership, please contact Biletix Customer Services.",
+   "genre": "Hip-Hop/Rap",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z1HyzZyMZkjoafvo",
@@ -1264,7 +1844,12 @@
    "lat": 38.440394,
    "lng": 27.151786,
    "image": "https://s1.ticketm.net/dam/a/733/94a471a4-04b8-4943-8bf1-4fa3581aa733_TABLET_LANDSCAPE_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5RG82/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5RG82/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Hip-Hop/Rap",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkCjLKvve",
@@ -1277,7 +1862,12 @@
    "lat": 38.447141,
    "lng": 27.173694,
    "image": "https://s1.ticketm.net/dam/a/f7c/8603c0fb-e2f9-4bb2-b1cf-54a66a3f8f7c_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5DRUI/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5DRUI/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Hip-Hop/Rap",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z1HyzZyMZk2Qauh_",
@@ -1290,7 +1880,12 @@
    "lat": 38.465087,
    "lng": 27.144188,
    "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5EP55/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5EP55/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Rock",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z6HyzZyMZ1kvo0MZv",
@@ -1303,7 +1898,12 @@
    "lat": 38.42886457201354,
    "lng": 27.148272269662595,
    "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/51937/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/51937/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Theatre",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z1HyzZyMZkfNa5mv",
@@ -1316,7 +1916,12 @@
    "lat": 38.454575,
    "lng": 27.099511,
    "image": "https://s1.ticketm.net/dam/c/03e/e15ef00f-2c87-4421-ae61-d740851a703e_105891_TABLET_LANDSCAPE_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5JY48/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5JY48/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Undefined",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z1HyzZyMZkjoaf8y",
@@ -1329,7 +1934,12 @@
    "lat": 38.42886457201354,
    "lng": 27.148272269662595,
    "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5RG83/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5RG83/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Pop",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z1HyzZyMZkfNa5r_",
@@ -1342,7 +1952,12 @@
    "lat": 38.39914894462486,
    "lng": 27.068317879464047,
    "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5JY47/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5JY47/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Theatre",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZk939Avve",
@@ -1355,7 +1970,12 @@
    "lat": 38.447141,
    "lng": 27.173694,
    "image": "https://s1.ticketm.net/dam/c/80b/f3cd8d24-c3ae-4fa0-b4bc-1ba99f9b380b_106091_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5MHM4/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5MHM4/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Hip-Hop/Rap",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z1HyzZyMZkCQa9lt",
@@ -1368,7 +1988,12 @@
    "lat": 38.454575,
    "lng": 27.099511,
    "image": "https://s1.ticketm.net/dam/c/f50/96fa13be-e395-429b-8558-a51bb9054f50_105951_TABLET_LANDSCAPE_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5DP97/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5DP97/001/TURKIYE/tr",
+   "desc": null,
+   "genre": null,
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZk5_ovvve",
@@ -1381,7 +2006,12 @@
    "lat": 38.39736367978245,
    "lng": 27.07831169080232,
    "image": "https://s1.ticketm.net/dam/c/779/d4bc7e11-1b50-4aa4-a2be-0a21569f5779_106531_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5AOG0/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5AOG0/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Folk",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z1HyzZyMZkjoa3Sa",
@@ -1394,7 +2024,12 @@
    "lat": 38.42886457201354,
    "lng": 27.148272269662595,
    "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5RG77/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5RG77/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Theatre",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z1HyzZyMZkxvaAFa",
@@ -1407,7 +2042,12 @@
    "lat": 38.474939,
    "lng": 27.074137,
    "image": "https://s1.ticketm.net/dam/a/98d/36109186-59c8-4ab7-8ebc-e5bfa678398d_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5X021/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5X021/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Metal",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_ZaHyzZyMZk_G7WpZv",
@@ -1420,7 +2060,12 @@
    "lat": 38.447141,
    "lng": 27.173694,
    "image": "https://s1.ticketm.net/dam/c/80b/f3cd8d24-c3ae-4fa0-b4bc-1ba99f9b380b_106091_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5OF56/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5OF56/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Hip-Hop/Rap",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkp-8avve",
@@ -1433,7 +2078,12 @@
    "lat": 38.42886457201354,
    "lng": 27.148272269662595,
    "image": "https://s1.ticketm.net/dam/c/548/5fefbd1c-973b-4b0e-9b2e-d78e4ce37548_106111_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5LWF8/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5LWF8/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "World",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkNqdCvve",
@@ -1446,7 +2096,12 @@
    "lat": 38.39914894462486,
    "lng": 27.068317879464047,
    "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5YS2D/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5YS2D/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Theatre",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z1HyzZyMZkGQapuy",
@@ -1459,7 +2114,12 @@
    "lat": 38.46802217482793,
    "lng": 27.089875774505764,
    "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5BP91/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5BP91/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Theatre",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkNqdfvve",
@@ -1472,7 +2132,12 @@
    "lat": 38.454575,
    "lng": 27.099511,
    "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5YS2J/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5YS2J/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Theatre",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkfGCovve",
@@ -1485,7 +2150,12 @@
    "lat": 38.468266878421204,
    "lng": 27.20836777325751,
    "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5JBDG/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5JBDG/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Pop",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkbQ5kvve",
@@ -1498,7 +2168,12 @@
    "lat": 38.474939,
    "lng": 27.074137,
    "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5NPA5/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5NPA5/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Pop",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkfGC3vve",
@@ -1511,7 +2186,12 @@
    "lat": 38.468266878421204,
    "lng": 27.20836777325751,
    "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5JBDH/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5JBDH/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Pop",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkKNK3vve",
@@ -1524,7 +2204,12 @@
    "lat": 38.447141,
    "lng": 27.173694,
    "image": "https://s1.ticketm.net/dam/c/80b/f3cd8d24-c3ae-4fa0-b4bc-1ba99f9b380b_106091_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5IYIH/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5IYIH/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Hip-Hop/Rap",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkbQ5dvve",
@@ -1537,7 +2222,12 @@
    "lat": 38.474939,
    "lng": 27.074137,
    "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5NPA2/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5NPA2/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Rock",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkp-81vve",
@@ -1550,7 +2240,12 @@
    "lat": 38.454575,
    "lng": 27.099511,
    "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5LWF9/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5LWF9/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Theatre",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z1HyzZyMZkbQa9jv",
@@ -1563,7 +2258,12 @@
    "lat": 38.474939,
    "lng": 27.074137,
    "image": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_TABLET_LANDSCAPE_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5NP96/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5NP96/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Alternative",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_ZaHyzZyMZk_G7X6Zv",
@@ -1576,7 +2276,12 @@
    "lat": 38.464675,
    "lng": 27.221622,
    "image": "https://s1.ticketm.net/dam/c/80b/f3cd8d24-c3ae-4fa0-b4bc-1ba99f9b380b_106091_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5OF87/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5OF87/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Hip-Hop/Rap",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZk5Ovevve",
@@ -1589,7 +2294,12 @@
    "lat": 38.39914894462486,
    "lng": 27.068317879464047,
    "image": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5AV01/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5AV01/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Comedy",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z1HyzZyMZkepa1R-",
@@ -1602,7 +2312,12 @@
    "lat": 38.418582,
    "lng": 27.130171,
    "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/51L44/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/51L44/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Theatre",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkbQeovve",
@@ -1615,7 +2330,12 @@
    "lat": 38.474939,
    "lng": 27.074137,
    "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5NP1G/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5NP1G/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Rock",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z6HyzZyMZGkvqOaZv",
@@ -1627,8 +2347,13 @@
    "city": "İzmir",
    "lat": 38.454575,
    "lng": 27.099511,
-   "image": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5D809/001/TURKIYE/tr"
+   "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_RETINA_PORTRAIT_16_9.jpg",
+   "url": "https://www.biletix.com/performance/5D809/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Theatre",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkbQ51vve",
@@ -1641,7 +2366,12 @@
    "lat": 38.474939,
    "lng": 27.074137,
    "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5NPA9/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5NPA9/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Rock",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkCruAvve",
@@ -1654,7 +2384,12 @@
    "lat": 38.468266878421204,
    "lng": 27.20836777325751,
    "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_TABLET_LANDSCAPE_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5DTC4/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5DTC4/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Pop",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_ZaHyzZyMZkoG7gJZv",
@@ -1667,7 +2402,12 @@
    "lat": 38.447141,
    "lng": 27.173694,
    "image": "https://s1.ticketm.net/dam/c/80b/f3cd8d24-c3ae-4fa0-b4bc-1ba99f9b380b_106091_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5GD66/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5GD66/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Hip-Hop/Rap",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z1HyzZyMZkGjaAE_",
@@ -1680,7 +2420,12 @@
    "lat": 38.454575,
    "lng": 27.099511,
    "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5BR23/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5BR23/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Theatre",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z1HyzZyMZk8qaely",
@@ -1693,7 +2438,12 @@
    "lat": 38.454575,
    "lng": 27.099511,
    "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5FS11/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5FS11/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Pop",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_ZaHyzZyMZk-170VZv",
@@ -1706,7 +2456,12 @@
    "lat": 38.447141,
    "lng": 27.173694,
    "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5W934/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5W934/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Rock",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkNqdLvve",
@@ -1719,7 +2474,12 @@
    "lat": 38.39914894462486,
    "lng": 27.068317879464047,
    "image": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5YS2U/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5YS2U/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Comedy",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZk9q59vve",
@@ -1732,7 +2492,12 @@
    "lat": 38.46802217482793,
    "lng": 27.089875774505764,
    "image": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5MSAM/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5MSAM/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Comedy",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkbQGvvve",
@@ -1745,7 +2510,12 @@
    "lat": 38.474939,
    "lng": 27.074137,
    "image": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5NPB0/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5NPB0/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Alternative",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkbQe3vve",
@@ -1758,7 +2528,12 @@
    "lat": 38.474939,
    "lng": 27.074137,
    "image": "https://s1.ticketm.net/dam/c/ab4/6367448e-7474-4650-bd2d-02a8f7166ab4_106161_TABLET_LANDSCAPE_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5NP1H/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5NP1H/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Undefined",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z1HyzZyMZkGQa9G_",
@@ -1771,7 +2546,12 @@
    "lat": 38.329148,
    "lng": 26.767003,
    "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5BP95/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5BP95/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Theatre",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z1HyzZyMZk9NaAMv",
@@ -1784,7 +2564,12 @@
    "lat": 38.39736367978245,
    "lng": 27.07831169080232,
    "image": "https://s1.ticketm.net/dam/a/38e/0cd7ede9-5292-43dd-8123-1f9d33d2838e_463631_TABLET_LANDSCAPE_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5MY24/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5MY24/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Pop",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z1HyzZyMZkfNa5Cs",
@@ -1797,7 +2582,12 @@
    "lat": 38.39914894462486,
    "lng": 27.068317879464047,
    "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5JY46/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5JY46/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Theatre",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZko9_Kvve",
@@ -1810,7 +2600,12 @@
    "lat": 38.454575,
    "lng": 27.099511,
    "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5GMOI/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5GMOI/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Theatre",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkbQeKvve",
@@ -1823,7 +2618,12 @@
    "lat": 38.474939,
    "lng": 27.074137,
    "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5NP1I/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5NP1I/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Rock",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_ZaHyzZyMZk_G7WVZv",
@@ -1836,7 +2636,12 @@
    "lat": 38.464675,
    "lng": 27.221622,
    "image": "https://s1.ticketm.net/dam/c/80b/f3cd8d24-c3ae-4fa0-b4bc-1ba99f9b380b_106091_TABLET_LANDSCAPE_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5OF74/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5OF74/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Hip-Hop/Rap",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkCjL5vve",
@@ -1849,7 +2654,12 @@
    "lat": 38.464675,
    "lng": 27.221622,
    "image": "https://s1.ticketm.net/dam/c/80b/f3cd8d24-c3ae-4fa0-b4bc-1ba99f9b380b_106091_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5DRUA/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5DRUA/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Hip-Hop/Rap",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_ZaHyzZyMZkQG7VYZv",
@@ -1862,7 +2672,12 @@
    "lat": 38.329148,
    "lng": 26.767003,
    "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5PD30/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5PD30/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Theatre",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z1HyzZyMZkxvaAMv",
@@ -1875,7 +2690,12 @@
    "lat": 38.474939,
    "lng": 27.074137,
    "image": "https://s1.ticketm.net/dam/c/e7c/86478562-7218-4e8f-b9d4-8080fe168e7c_105581_TABLET_LANDSCAPE_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5X024/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5X024/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Metal",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z1HyzZyMZkGja6fs",
@@ -1888,7 +2708,12 @@
    "lat": 38.454575,
    "lng": 27.099511,
    "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5BR30/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5BR30/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Theatre",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkQCb-vve",
@@ -1901,7 +2726,12 @@
    "lat": 38.454575,
    "lng": 27.099511,
    "image": "https://s1.ticketm.net/dam/c/ab4/6367448e-7474-4650-bd2d-02a8f7166ab4_106161_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5PDNW/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5PDNW/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Undefined",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z1HyzZyMZk9oapuy",
@@ -1914,7 +2744,12 @@
    "lat": 38.438259319502585,
    "lng": 27.143120801033284,
    "image": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_TABLET_LANDSCAPE_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5MG91/001/TURKIYE/tr"
+   "url": "https://www.biletix.com/performance/5MG91/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Alternative",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   },
   {
    "id": "tm_Z6HyzZyMZ1kvpp4Zv",
@@ -1926,8 +2761,13 @@
    "city": "İzmir",
    "lat": 38.454575,
    "lng": 27.099511,
-   "image": "https://s1.ticketm.net/dam/a/88b/25b6ce65-0e37-4b89-b07e-a6957719988b_TABLET_LANDSCAPE_16_9.jpg",
-   "url": "https://www.biletix.com/performance/56595/001/TURKIYE/tr"
+   "image": "https://s1.ticketm.net/dam/c/779/d4bc7e11-1b50-4aa4-a2be-0a21569f5779_106531_RETINA_PORTRAIT_16_9.jpg",
+   "url": "https://www.biletix.com/performance/56595/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Folk",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
   }
  ]
 }

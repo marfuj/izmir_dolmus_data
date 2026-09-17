@@ -116,6 +116,8 @@ def fetch_ticketmaster():
             start = dates.get("dateTime") or dates.get("localDate")
             lat = loc.get("latitude")
             lng = loc.get("longitude")
+            pr = (e.get("priceRanges") or [{}])[0]
+            genre = (cls.get("genre") or {}).get("name")
             out.append({
                 "id": "tm_" + str(e.get("id")),
                 "source": "ticketmaster",
@@ -128,6 +130,11 @@ def fetch_ticketmaster():
                 "lng": float(lng) if lng else None,
                 "image": pick_image(e.get("images")),
                 "url": e.get("url"),
+                "desc": e.get("info") or e.get("pleaseNote"),
+                "genre": genre,
+                "price_min": pr.get("min"),
+                "price_max": pr.get("max"),
+                "currency": pr.get("currency"),
             })
         total_pages = data.get("page", {}).get("totalPages", 1)
         if page + 1 >= total_pages:
@@ -159,6 +166,7 @@ def fetch_ibb(idx):
             "lng": lng,
             "image": e.get("Resim") or e.get("KucukAfis"),
             "url": e.get("EtkinlikUrl"),
+            "desc": e.get("KisaAciklama"),
         })
     return out
 
