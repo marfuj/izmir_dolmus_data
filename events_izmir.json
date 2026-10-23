@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-22T08:31:28.834192+00:00",
+ "updated": "2026-10-23T08:27:45.788929+00:00",
  "source": "Ticketmaster (Biletix) + İBB",
- "count": 86,
+ "count": 85,
  "events": [
   {
    "id": "ibb_6583",
@@ -32,24 +32,6 @@
    "image": "https://kultursanat.izmir.bel.tr/YuklenenDosyalar/Etkinlikler/Kucuk/20260410_114302_etkinlik.jpg",
    "url": "izmir-mutfak-muzesiE28099nin-tanitim-sergisigol-gazinosuE28099nda-ziyarete-acildi",
    "desc": "İzmir Mutfak Müzesi'nin Tanıtım Sergisi Göl Gazinosu'nda Ziyarete Açıldı..."
-  },
-  {
-   "id": "tm_Z1HyzZyMZkCQa9lt",
-   "source": "ticketmaster",
-   "title": "Ahmet Aslan & Grup Abdal",
-   "category": "Music",
-   "start": "2026-10-22T17:30:00Z",
-   "venue": "Bostanlı Karşıyaka Theatre",
-   "city": "İzmir",
-   "lat": 38.454575,
-   "lng": 27.099511,
-   "image": "https://s1.ticketm.net/dam/c/548/5fefbd1c-973b-4b0e-9b2e-d78e4ce37548_106111_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5DP97/001/TURKIYE/tr",
-   "desc": null,
-   "genre": "World",
-   "price_min": null,
-   "price_max": null,
-   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkbQGevve",
@@ -115,10 +97,10 @@
    "city": "İzmir",
    "lat": 38.38826002313899,
    "lng": 27.03525012698434,
-   "image": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_RETINA_PORTRAIT_16_9.jpg",
+   "image": "https://s1.ticketm.net/dam/c/f50/96fa13be-e395-429b-8558-a51bb9054f50_105951_TABLET_LANDSCAPE_16_9.jpg",
    "url": "https://www.biletix.com/performance/5LPA2/001/TURKIYE/tr",
    "desc": null,
-   "genre": "Alternative",
+   "genre": null,
    "price_min": null,
    "price_max": null,
    "currency": null
@@ -637,10 +619,10 @@
    "city": "İzmir",
    "lat": 38.454575,
    "lng": 27.099511,
-   "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_RETINA_PORTRAIT_16_9.jpg",
+   "image": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_16_9.jpg",
    "url": "https://www.biletix.com/performance/5D809/001/TURKIYE/tr",
    "desc": null,
-   "genre": "Theatre",
+   "genre": "Comedy",
    "price_min": null,
    "price_max": null,
    "currency": null
@@ -781,10 +763,10 @@
    "city": "İzmir",
    "lat": 38.38826002313899,
    "lng": 27.03525012698434,
-   "image": "https://s1.ticketm.net/dam/c/f50/96fa13be-e395-429b-8558-a51bb9054f50_105951_TABLET_LANDSCAPE_16_9.jpg",
+   "image": "https://s1.ticketm.net/dam/c/548/5fefbd1c-973b-4b0e-9b2e-d78e4ce37548_106111_TABLET_LANDSCAPE_16_9.jpg",
    "url": "https://www.biletix.com/performance/5LPA6/001/TURKIYE/tr",
    "desc": null,
-   "genre": null,
+   "genre": "World",
    "price_min": null,
    "price_max": null,
    "currency": null
