@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-23T08:27:45.788929+00:00",
+ "updated": "2026-10-24T08:02:42.670453+00:00",
  "source": "Ticketmaster (Biletix) + İBB",
- "count": 85,
+ "count": 86,
  "events": [
   {
    "id": "ibb_6583",
@@ -32,24 +32,6 @@
    "image": "https://kultursanat.izmir.bel.tr/YuklenenDosyalar/Etkinlikler/Kucuk/20260410_114302_etkinlik.jpg",
    "url": "izmir-mutfak-muzesiE28099nin-tanitim-sergisigol-gazinosuE28099nda-ziyarete-acildi",
    "desc": "İzmir Mutfak Müzesi'nin Tanıtım Sergisi Göl Gazinosu'nda Ziyarete Açıldı..."
-  },
-  {
-   "id": "tm_Z2HyzZyMZkbQGevve",
-   "source": "ticketmaster",
-   "title": "Doğan Duru & Aylin Aslım",
-   "category": "Music",
-   "start": "2026-10-23T18:00:00Z",
-   "venue": "SoldOut Performance Hall",
-   "city": "İzmir",
-   "lat": 38.474939,
-   "lng": 27.074137,
-   "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5NPB1/001/TURKIYE/tr",
-   "desc": null,
-   "genre": "Rock",
-   "price_min": null,
-   "price_max": null,
-   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZk5_ovvve",
@@ -619,10 +601,10 @@
    "city": "İzmir",
    "lat": 38.454575,
    "lng": 27.099511,
-   "image": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_16_9.jpg",
+   "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_RETINA_PORTRAIT_16_9.jpg",
    "url": "https://www.biletix.com/performance/5D809/001/TURKIYE/tr",
    "desc": null,
-   "genre": "Comedy",
+   "genre": "Theatre",
    "price_min": null,
    "price_max": null,
    "currency": null
@@ -763,10 +745,10 @@
    "city": "İzmir",
    "lat": 38.38826002313899,
    "lng": 27.03525012698434,
-   "image": "https://s1.ticketm.net/dam/c/548/5fefbd1c-973b-4b0e-9b2e-d78e4ce37548_106111_TABLET_LANDSCAPE_16_9.jpg",
+   "image": "https://s1.ticketm.net/dam/c/f50/96fa13be-e395-429b-8558-a51bb9054f50_105951_TABLET_LANDSCAPE_16_9.jpg",
    "url": "https://www.biletix.com/performance/5LPA6/001/TURKIYE/tr",
    "desc": null,
-   "genre": "World",
+   "genre": null,
    "price_min": null,
    "price_max": null,
    "currency": null
@@ -1060,6 +1042,24 @@
    "currency": null
   },
   {
+   "id": "tm_ZaHyzZyMZkNG7V6Zv",
+   "source": "ticketmaster",
+   "title": "Yusuf Bilal Altıntaş - Entel Maganda - Stand Up",
+   "category": "Arts & Theatre",
+   "start": "2026-11-25T17:30:00Z",
+   "venue": "Babil Bira Bahçesi",
+   "city": "İzmir",
+   "lat": 38.409793648669925,
+   "lng": 27.033913909076006,
+   "image": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_16_9.jpg",
+   "url": "https://www.biletix.com/performance/5YD07/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Comedy",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
+  },
+  {
    "id": "tm_Z2HyzZyMZkbQeKvve",
    "source": "ticketmaster",
    "title": "Can Gox",
@@ -1091,6 +1091,24 @@
    "url": "https://www.biletix.com/performance/5FP64/001/TURKIYE/tr",
    "desc": null,
    "genre": "Theatre",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
+  },
+  {
+   "id": "tm_Z2HyzZyMZkKKb9vve",
+   "source": "ticketmaster",
+   "title": "İsmail Nuri Stand Up - Yeni Gösteri",
+   "category": "Arts & Theatre",
+   "start": "2026-11-27T17:30:00Z",
+   "venue": "PENGUEN Kültür Sanat Bistro & Comedy Club",
+   "city": "İzmir",
+   "lat": 38.45368122911795,
+   "lng": 27.177717803144628,
+   "image": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_16_9.jpg",
+   "url": "https://www.biletix.com/performance/5IINM/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Comedy",
    "price_min": null,
    "price_max": null,
    "currency": null
