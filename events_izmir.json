@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T09:51:04.769423+00:00",
+ "updated": "2026-10-30T09:55:08.360880+00:00",
  "source": "Ticketmaster (Biletix) + İBB",
  "count": 85,
  "events": [
@@ -421,10 +421,10 @@
    "city": "İzmir",
    "lat": 38.454575,
    "lng": 27.099511,
-   "image": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_16_9.jpg",
+   "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_RETINA_PORTRAIT_16_9.jpg",
    "url": "https://www.biletix.com/performance/5D809/001/TURKIYE/tr",
    "desc": null,
-   "genre": "Comedy",
+   "genre": "Theatre",
    "price_min": null,
    "price_max": null,
    "currency": null
@@ -1303,10 +1303,10 @@
    "city": "İzmir",
    "lat": 38.454575,
    "lng": 27.099511,
-   "image": "https://s1.ticketm.net/dam/a/88b/25b6ce65-0e37-4b89-b07e-a6957719988b_TABLET_LANDSCAPE_16_9.jpg",
+   "image": "https://s1.ticketm.net/dam/c/779/d4bc7e11-1b50-4aa4-a2be-0a21569f5779_106531_RETINA_PORTRAIT_16_9.jpg",
    "url": "https://www.biletix.com/performance/56595/001/TURKIYE/tr",
    "desc": null,
-   "genre": "World",
+   "genre": "Folk",
    "price_min": null,
    "price_max": null,
    "currency": null
