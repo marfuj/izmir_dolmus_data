@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T10:45:27.084882+00:00",
+ "updated": "2026-11-04T10:47:38.874146+00:00",
  "source": "Ticketmaster (Biletix) + İBB",
  "count": 76,
  "events": [
@@ -32,24 +32,6 @@
    "image": "https://kultursanat.izmir.bel.tr/YuklenenDosyalar/Etkinlikler/Kucuk/20260410_114302_etkinlik.jpg",
    "url": "izmir-mutfak-muzesiE28099nin-tanitim-sergisigol-gazinosuE28099nda-ziyarete-acildi",
    "desc": "İzmir Mutfak Müzesi'nin Tanıtım Sergisi Göl Gazinosu'nda Ziyarete Açıldı..."
-  },
-  {
-   "id": "tm_Z2HyzZyMZkp-81vve",
-   "source": "ticketmaster",
-   "title": "Karanlıkta Kumpas",
-   "category": "Arts & Theatre",
-   "start": "2026-11-03T17:30:00Z",
-   "venue": "Bostanlı Karşıyaka Theatre",
-   "city": "İzmir",
-   "lat": 38.454575,
-   "lng": 27.099511,
-   "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5LWF9/001/TURKIYE/tr",
-   "desc": null,
-   "genre": "Theatre",
-   "price_min": null,
-   "price_max": null,
-   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkG05Fvve",
@@ -97,7 +79,7 @@
    "city": "İzmir",
    "lat": 38.474939,
    "lng": 27.074137,
-   "image": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_TABLET_LANDSCAPE_16_9.jpg",
+   "image": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_RETINA_PORTRAIT_16_9.jpg",
    "url": "https://www.biletix.com/performance/5NP96/001/TURKIYE/tr",
    "desc": null,
    "genre": "Alternative",
@@ -259,10 +241,10 @@
    "city": "İzmir",
    "lat": 38.454575,
    "lng": 27.099511,
-   "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_RETINA_PORTRAIT_16_9.jpg",
+   "image": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_16_9.jpg",
    "url": "https://www.biletix.com/performance/5D809/001/TURKIYE/tr",
    "desc": null,
-   "genre": "Theatre",
+   "genre": "Comedy",
    "price_min": null,
    "price_max": null,
    "currency": null
@@ -1181,6 +1163,24 @@
    "url": "https://www.biletix.com/performance/5BLA6/001/TURKIYE/tr",
    "desc": null,
    "genre": "Rock",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
+  },
+  {
+   "id": "tm_ZaHyzZyMZk_G7W5Zv",
+   "source": "ticketmaster",
+   "title": "Murda",
+   "category": "Music",
+   "start": "2026-12-18T19:00:00Z",
+   "venue": "Hayal Kahvesi İzmir",
+   "city": "İzmir",
+   "lat": 38.447141,
+   "lng": 27.173694,
+   "image": "https://s1.ticketm.net/dam/a/689/59325e47-1d07-48b1-a21b-9971fe854689_TABLET_LANDSCAPE_16_9.jpg",
+   "url": "https://www.biletix.com/performance/5OF4B/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Hip-Hop/Rap",
    "price_min": null,
    "price_max": null,
    "currency": null
