@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-12T10:57:16.371726+00:00",
+ "updated": "2026-11-13T10:51:36.555682+00:00",
  "source": "Ticketmaster (Biletix) + İBB",
- "count": 68,
+ "count": 69,
  "events": [
   {
    "id": "ibb_6583",
@@ -79,10 +79,10 @@
    "city": "İzmir",
    "lat": 38.38826002313899,
    "lng": 27.03525012698434,
-   "image": "https://s1.ticketm.net/dam/c/548/5fefbd1c-973b-4b0e-9b2e-d78e4ce37548_106111_TABLET_LANDSCAPE_16_9.jpg",
+   "image": "https://s1.ticketm.net/dam/c/f50/96fa13be-e395-429b-8558-a51bb9054f50_105951_TABLET_LANDSCAPE_16_9.jpg",
    "url": "https://www.biletix.com/performance/5LPA6/001/TURKIYE/tr",
    "desc": null,
-   "genre": "World",
+   "genre": null,
    "price_min": null,
    "price_max": null,
    "currency": null
@@ -790,6 +790,24 @@
    "currency": null
   },
   {
+   "id": "tm_ZaHyzZyMZkNG7VIZv",
+   "source": "ticketmaster",
+   "title": "Azize Show",
+   "category": "Music",
+   "start": "2026-12-11T17:30:00Z",
+   "venue": "Babil Bira Bahçesi",
+   "city": "İzmir",
+   "lat": 38.409793648669925,
+   "lng": 27.033913909076006,
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_RETINA_PORTRAIT_16_9.jpg",
+   "url": "https://www.biletix.com/performance/5YD28/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Dance/Electronic",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
+  },
+  {
    "id": "tm_Z1HyzZyMZk9oapuy",
    "source": "ticketmaster",
    "title": "Onurr - Methiyeler",
@@ -871,10 +889,10 @@
    "city": "İzmir",
    "lat": 38.454575,
    "lng": 27.099511,
-   "image": "https://s1.ticketm.net/dam/a/88b/25b6ce65-0e37-4b89-b07e-a6957719988b_TABLET_LANDSCAPE_16_9.jpg",
+   "image": "https://s1.ticketm.net/dam/c/779/d4bc7e11-1b50-4aa4-a2be-0a21569f5779_106531_RETINA_PORTRAIT_16_9.jpg",
    "url": "https://www.biletix.com/performance/56595/001/TURKIYE/tr",
    "desc": null,
-   "genre": "World",
+   "genre": "Folk",
    "price_min": null,
    "price_max": null,
    "currency": null
