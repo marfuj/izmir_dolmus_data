@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T10:14:05.915765+00:00",
+ "updated": "2026-11-15T10:44:07.215999+00:00",
  "source": "Ticketmaster (Biletix) + İBB",
  "count": 67,
  "events": [
@@ -32,24 +32,6 @@
    "image": "https://kultursanat.izmir.bel.tr/YuklenenDosyalar/Etkinlikler/Kucuk/20260410_114302_etkinlik.jpg",
    "url": "izmir-mutfak-muzesiE28099nin-tanitim-sergisigol-gazinosuE28099nda-ziyarete-acildi",
    "desc": "İzmir Mutfak Müzesi'nin Tanıtım Sergisi Göl Gazinosu'nda Ziyarete Açıldı..."
-  },
-  {
-   "id": "tm_Z2HyzZyMZkpQ56vve",
-   "source": "ticketmaster",
-   "title": "Ümit Besen & Rubato Özel Yemekli Gala Konseri",
-   "category": "Music",
-   "start": "2026-11-14T18:00:00Z",
-   "venue": "Balçova Termal Otel",
-   "city": "İzmir",
-   "lat": 38.38826002313899,
-   "lng": 27.03525012698434,
-   "image": "https://s1.ticketm.net/dam/c/f50/96fa13be-e395-429b-8558-a51bb9054f50_105951_TABLET_LANDSCAPE_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5LPA6/001/TURKIYE/tr",
-   "desc": null,
-   "genre": null,
-   "price_min": null,
-   "price_max": null,
-   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkr1_Nvve",
@@ -1091,6 +1073,24 @@
    "url": "https://www.biletix.com/performance/6T600/002/TURKIYE/tr",
    "desc": null,
    "genre": "Theatre",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
+  },
+  {
+   "id": "tm_Z2HyzZyMZ68Qvdvve",
+   "source": "ticketmaster",
+   "title": "Cem Erdost İleri ile PortakalAltı Buluşmaları",
+   "category": "Music",
+   "start": "2027-01-20T17:30:00Z",
+   "venue": "Bostanlı Karşıyaka Theatre",
+   "city": "İzmir",
+   "lat": 38.454575,
+   "lng": 27.099511,
+   "image": "https://s1.ticketm.net/dam/c/779/d4bc7e11-1b50-4aa4-a2be-0a21569f5779_106531_RETINA_PORTRAIT_16_9.jpg",
+   "url": "https://www.biletix.com/performance/6FP02/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Folk",
    "price_min": null,
    "price_max": null,
    "currency": null
