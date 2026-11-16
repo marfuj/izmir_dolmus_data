@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-15T10:44:07.215999+00:00",
+ "updated": "2026-11-16T11:02:57.404562+00:00",
  "source": "Ticketmaster (Biletix) + İBB",
- "count": 67,
+ "count": 66,
  "events": [
   {
    "id": "ibb_6583",
@@ -32,24 +32,6 @@
    "image": "https://kultursanat.izmir.bel.tr/YuklenenDosyalar/Etkinlikler/Kucuk/20260410_114302_etkinlik.jpg",
    "url": "izmir-mutfak-muzesiE28099nin-tanitim-sergisigol-gazinosuE28099nda-ziyarete-acildi",
    "desc": "İzmir Mutfak Müzesi'nin Tanıtım Sergisi Göl Gazinosu'nda Ziyarete Açıldı..."
-  },
-  {
-   "id": "tm_Z2HyzZyMZkr1_Nvve",
-   "source": "ticketmaster",
-   "title": "Sevgili Arsız Ölüm - Dirmit",
-   "category": "Arts & Theatre",
-   "start": "2026-11-15T17:00:00Z",
-   "venue": "Bostanlı Karşıyaka Theatre",
-   "city": "İzmir",
-   "lat": 38.454575,
-   "lng": 27.099511,
-   "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5T9OY/001/TURKIYE/tr",
-   "desc": null,
-   "genre": "Theatre",
-   "price_min": null,
-   "price_max": null,
-   "currency": null
   },
   {
    "id": "tm_ZaHyzZyMZkhG7X_Zv",
@@ -709,10 +691,10 @@
    "city": "İzmir",
    "lat": 38.454575,
    "lng": 27.099511,
-   "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_RETINA_PORTRAIT_16_9.jpg",
+   "image": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_16_9.jpg",
    "url": "https://www.biletix.com/performance/52770/001/TURKIYE/tr",
    "desc": null,
-   "genre": "Theatre",
+   "genre": "Comedy",
    "price_min": null,
    "price_max": null,
    "currency": null
