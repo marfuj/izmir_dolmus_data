@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-16T11:02:57.404562+00:00",
+ "updated": "2026-11-17T11:43:47.575075+00:00",
  "source": "Ticketmaster (Biletix) + İBB",
- "count": 66,
+ "count": 67,
  "events": [
   {
    "id": "ibb_6583",
@@ -691,10 +691,10 @@
    "city": "İzmir",
    "lat": 38.454575,
    "lng": 27.099511,
-   "image": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_16_9.jpg",
+   "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_RETINA_PORTRAIT_16_9.jpg",
    "url": "https://www.biletix.com/performance/52770/001/TURKIYE/tr",
    "desc": null,
-   "genre": "Comedy",
+   "genre": "Theatre",
    "price_min": null,
    "price_max": null,
    "currency": null
@@ -1091,6 +1091,24 @@
    "url": "https://www.biletix.com/performance/6SKR0/001/TURKIYE/tr",
    "desc": null,
    "genre": "Folk",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
+  },
+  {
+   "id": "tm_Z2HyzZyMZ6Nq9dvve",
+   "source": "ticketmaster",
+   "title": "Salih Bademci - Sesler",
+   "category": "Arts & Theatre",
+   "start": "2027-01-26T17:30:00Z",
+   "venue": "İstinyeArt Performans Arena",
+   "city": "İzmir",
+   "lat": 38.39914894462486,
+   "lng": 27.068317879464047,
+   "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_RETINA_PORTRAIT_16_9.jpg",
+   "url": "https://www.biletix.com/performance/6YSM2/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Theatre",
    "price_min": null,
    "price_max": null,
    "currency": null
