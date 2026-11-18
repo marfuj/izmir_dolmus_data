@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-17T11:43:47.575075+00:00",
+ "updated": "2026-11-18T11:31:29.136962+00:00",
  "source": "Ticketmaster (Biletix) + İBB",
- "count": 67,
+ "count": 65,
  "events": [
   {
    "id": "ibb_6583",
@@ -32,42 +32,6 @@
    "image": "https://kultursanat.izmir.bel.tr/YuklenenDosyalar/Etkinlikler/Kucuk/20260410_114302_etkinlik.jpg",
    "url": "izmir-mutfak-muzesiE28099nin-tanitim-sergisigol-gazinosuE28099nda-ziyarete-acildi",
    "desc": "İzmir Mutfak Müzesi'nin Tanıtım Sergisi Göl Gazinosu'nda Ziyarete Açıldı..."
-  },
-  {
-   "id": "tm_ZaHyzZyMZkhG7X_Zv",
-   "source": "ticketmaster",
-   "title": "Aşk Reyonu",
-   "category": "Arts & Theatre",
-   "start": "2026-11-17T17:00:00Z",
-   "venue": "Hikmet Şimşek Sanat Merkezi",
-   "city": "İzmir",
-   "lat": 38.46802217482793,
-   "lng": 27.089875774505764,
-   "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5QF99/001/TURKIYE/tr",
-   "desc": null,
-   "genre": "Theatre",
-   "price_min": null,
-   "price_max": null,
-   "currency": null
-  },
-  {
-   "id": "tm_Z2HyzZyMZkNqdLvve",
-   "source": "ticketmaster",
-   "title": "Berfu & Eser Yenenler - Çift Terapisi",
-   "category": "Arts & Theatre",
-   "start": "2026-11-17T17:30:00Z",
-   "venue": "İstinyeArt Performans Arena",
-   "city": "İzmir",
-   "lat": 38.39914894462486,
-   "lng": 27.068317879464047,
-   "image": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5YS2U/001/TURKIYE/tr",
-   "desc": null,
-   "genre": "Comedy",
-   "price_min": null,
-   "price_max": null,
-   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZk9q59vve",
