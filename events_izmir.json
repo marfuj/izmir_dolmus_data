@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T11:30:09.446864+00:00",
+ "updated": "2026-11-20T11:26:08.989890+00:00",
  "source": "Ticketmaster (Biletix) + İBB",
  "count": 63,
  "events": [
@@ -32,24 +32,6 @@
    "image": "https://kultursanat.izmir.bel.tr/YuklenenDosyalar/Etkinlikler/Kucuk/20260410_114302_etkinlik.jpg",
    "url": "izmir-mutfak-muzesiE28099nin-tanitim-sergisigol-gazinosuE28099nda-ziyarete-acildi",
    "desc": "İzmir Mutfak Müzesi'nin Tanıtım Sergisi Göl Gazinosu'nda Ziyarete Açıldı..."
-  },
-  {
-   "id": "tm_Z2HyzZyMZkqxvevvd",
-   "source": "ticketmaster",
-   "title": "Demet Sağıroğlu & Barbaros",
-   "category": "Music",
-   "start": "2026-11-19T17:00:00Z",
-   "venue": "Ahmed Adnan Saygun Center",
-   "city": "İzmir",
-   "lat": 38.39736367978245,
-   "lng": 27.07831169080232,
-   "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_PORTRAIT_16_9.jpg",
-   "url": "https://www.biletix.com/performance/5SX01/002/TURKIYE/tr",
-   "desc": null,
-   "genre": "Pop",
-   "price_min": null,
-   "price_max": null,
-   "currency": null
   },
   {
    "id": "tm_Z2HyzZyMZkbQe3vve",
@@ -911,6 +893,24 @@
    "url": "https://www.biletix.com/performance/5RG85/001/TURKIYE/tr",
    "desc": null,
    "genre": "Jazz",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
+  },
+  {
+   "id": "tm_Z2HyzZyMZ6LO55vve",
+   "source": "ticketmaster",
+   "title": "Fazıl Say: 2027 Beethoven Yılı Konserleri",
+   "category": "Arts & Theatre",
+   "start": "2027-01-09T17:00:00Z",
+   "venue": "Ahmed Adnan Saygun Center",
+   "city": "İzmir",
+   "lat": 38.39736367978245,
+   "lng": 27.07831169080232,
+   "image": "https://s1.ticketm.net/dam/c/919/10ad0c9c-6b83-4e29-a814-52a9e5913919_105641_RETINA_PORTRAIT_16_9.jpg",
+   "url": "https://www.biletix.com/performance/6UVAA/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Music",
    "price_min": null,
    "price_max": null,
    "currency": null
