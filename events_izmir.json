@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-23T12:20:58.906452+00:00",
+ "updated": "2026-11-24T13:33:42.724263+00:00",
  "source": "Ticketmaster (Biletix) + İBB",
- "count": 63,
+ "count": 64,
  "events": [
   {
    "id": "ibb_6583",
@@ -475,10 +475,10 @@
    "city": "İzmir",
    "lat": 38.454575,
    "lng": 27.099511,
-   "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_RETINA_PORTRAIT_16_9.jpg",
+   "image": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_16_9.jpg",
    "url": "https://www.biletix.com/performance/52770/001/TURKIYE/tr",
    "desc": null,
-   "genre": "Theatre",
+   "genre": "Comedy",
    "price_min": null,
    "price_max": null,
    "currency": null
@@ -558,7 +558,7 @@
   {
    "id": "tm_Z2HyzZyMZkjo1Cvve",
    "source": "ticketmaster",
-   "title": "ÖFSK - Halil Sezai",
+   "title": "Halil Sezai - Önce Film Sonra Konser",
    "category": "Music",
    "start": "2026-12-12T16:00:00Z",
    "venue": "The Factory PSM - Tarihi Havagazı Fabrikası",
@@ -1019,6 +1019,24 @@
    "url": "https://www.biletix.com/performance/6DT01/001/TURKIYE/tr",
    "desc": null,
    "genre": "Theatre",
+   "price_min": null,
+   "price_max": null,
+   "currency": null
+  },
+  {
+   "id": "tm_Z2HyzZyMZ62r2evve",
+   "source": "ticketmaster",
+   "title": "Brazzaville",
+   "category": "Music",
+   "start": "2027-02-13T18:00:00Z",
+   "venue": "Cliff Venue",
+   "city": "İzmir",
+   "lat": 38.463610996536,
+   "lng": 27.218173814649738,
+   "image": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_RETINA_PORTRAIT_16_9.jpg",
+   "url": "https://www.biletix.com/performance/6ETE1/001/TURKIYE/tr",
+   "desc": null,
+   "genre": "Alternative",
    "price_min": null,
    "price_max": null,
    "currency": null
